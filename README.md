@@ -86,8 +86,12 @@ I believe a great developer draws inspiration from outside the IDE. When I'm not
 ### 📫 Let's Connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/oleh-zyza-501209342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:olehzyza@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/message.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/oleh-zyza-501209342" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:olehzyza@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ⭐️ *Thanks for stopping by! Feel free to check out my repositories below.*
